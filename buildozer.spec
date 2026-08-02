@@ -17,10 +17,7 @@ fullscreen = 1
 icon.filename = icon.png
 presplash.filename = splash.png
 
-android.api = 34
 android.minapi = 21
-android.sdk = 34
-android.ndk = 25b
 android.archs = arm64-v8a,armeabi-v7a
 
 android.permissions = INTERNET,VIBRATE
